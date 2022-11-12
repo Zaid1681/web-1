@@ -1,0 +1,25 @@
+=========> CSS
+
+div {
+  column-count: 3; //can give the columns number
+  height: 100px;
+}
+
+.newspaper1 {
+  column-fill: auto;
+}
+
+.newspaper2 {
+  column-fill: balance;
+}
+
+//can set the line of particular width
+div {
+    column-rule: 1px solid lightblue;
+  }
+{
+    margin: auto; //makes the element come to center vertically and horizontally
+}
+
+if something si overflwo then you had hardcoded the height
+maxwidth : 100% //jitne width hai utni lel leta hai
